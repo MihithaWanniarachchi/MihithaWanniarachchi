@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Mihitha+Wanniarachchi)](https://git.io/typing-svg)
 
-## I'm a Data Science and Analysis Enthusiast!  
+## I'm a Data Engineering and Analysis Enthusiast!  
 
 - 🌱 I’m currently exploring advanced techniques in data analysis and machine learning.
 - 💬 Ask me about anything related to data science, data visualization, or statistical modeling!
@@ -10,7 +10,7 @@
 
 ## 👩 ABOUT ME
 
-I'm **Mihitha Wanniarachchi**, a **Data Science Enthusiast** from Sri Lanka. My passion lies in transforming raw data into valuable insights and constantly improving my skills in data-driven problem-solving. Every day is a new opportunity to grow!
+I'm **Mihitha Wanniarachchi**, a **Data Engineering Enthusiast** from Sri Lanka. My passion lies in transforming raw data into valuable insights and constantly improving my skills in data-driven problem-solving. Every day is a new opportunity to grow!
 
 ### Connect With Me:
 
